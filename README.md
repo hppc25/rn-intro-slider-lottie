@@ -1,8 +1,8 @@
 # rn-slide-intro-lottie
-An Intro Slide with After Effects animation in React Native using Lottie.
+An Intro slider with After Effects animation in React Native using Lottie.
 
 <div align="center">
-    <h1>Slide intro Previews </h1>
+    <h1>Intro Slider Previews </h1>
  <img src="docs/gifs/app.gif" />
 </div>
 
