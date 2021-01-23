@@ -1,4 +1,4 @@
-# rc-slide-intro-lottie
+# rn-slide-intro-lottie
 An Intro Slide with After Effects animation in React Native using Lottie.
 
 
