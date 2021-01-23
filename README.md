@@ -26,12 +26,12 @@ cd ios && pod install
 
 Run this command to start the development server and to start your app on iOS simulator:
 ```
-react-native run:ios
+react-native run-ios
 ```
 
 Or, if you prefer Android:
 ```
-react-native run:android
+react-native run-android
 ```
 
 ## Packages 
